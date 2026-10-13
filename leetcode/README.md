@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/2058-concatenation-of-array) |
 ## Simulation

@@ -5,7 +5,7 @@ class Solution:
         sum = 0 
 
         for i in range(n):
-            sum =sum + nums[i]
+            sum = sum + nums[i]
             array[i] = sum
             
         return array

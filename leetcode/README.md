@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0189-rotate-array) |
 | [1580-shuffle-the-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1791-richest-customer-wealth) |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0189-rotate-array) |
 <!---LeetCode Topics End-->

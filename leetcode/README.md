@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0414-third-maximum-number) |
 | [1580-shuffle-the-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/1791-richest-customer-wealth) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Arghaneel/DSA-WITH-PYTHON-/tree/master/LeetCode/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
